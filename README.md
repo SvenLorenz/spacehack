@@ -1,7 +1,8 @@
 # NASA Hackathon
+![](cooperation.jpg?raw=true "NASA Hackathon")
 
 - [Example Report](https://83dc9fb9-e95b-4423-a6be-df0aa5024d85.filesusr.com/ugd/64484b_474a7c0468684c0eb46465fc52ebbd29.pdf) (careful pdf!)  
-- [Criteria for Evaluation](https://www.dsa-muc.com/nasa-hackathon)  
+- [Criteria for Evaluation](https://www.dsa-muc.com/nasa-hackathon) (scroll down a bit)  
 
 # Documentation
 
@@ -31,3 +32,6 @@
 | field21                  | double    | Instances of EVA by mission                                                         |
 | eva_hrs_mission          | double    | Duration of extravehicular activities  during the mission |
 | total_eva_hrs            | double    | Total duration of all extravehicular activities in hours  |
+
+
+Have fun!
