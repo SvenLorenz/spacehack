@@ -33,6 +33,3 @@
 | field21                  | double    | Instances of EVA by mission                                                         |
 | eva_hrs_mission          | double    | Duration of extravehicular activities  during the mission |
 | total_eva_hrs            | double    | Total duration of all extravehicular activities in hours  |
-
-
-Have fun!
